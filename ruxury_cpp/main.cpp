@@ -3,9 +3,10 @@
 int main(){
 
 	// 14번 난이도 8
-	GamblingGame game;
-	game.start();
-
+	//GamblingGame game;
+	//game.start();
+	int a = sizeof(int);
+	cout << a;
 
 }
 
