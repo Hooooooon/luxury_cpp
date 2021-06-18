@@ -25,6 +25,18 @@
     <Filter Include="소스 파일\족보\기말고사">
       <UniqueIdentifier>{21061a04-de6f-43bd-bf5c-0ca8430d86cd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\8장">
+      <UniqueIdentifier>{f3dac2bf-a52a-4155-9a85-f7b97c7f6953}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\족보\중간고사">
+      <UniqueIdentifier>{881a3eea-6cce-4702-bae3-947b96ed1bf7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\족보\기말고사\18년도">
+      <UniqueIdentifier>{dbfb331c-ab6e-42fb-ba49-cd66a505fed2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\족보\기말고사\16년도">
+      <UniqueIdentifier>{047e970a-e9d2-4dda-8d9c-e782893678f5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">
@@ -41,20 +53,38 @@
     <ClCompile Include="6.6.cpp">
       <Filter>소스 파일\6장</Filter>
     </ClCompile>
+    <ClCompile Include="8장연습.cpp">
+      <Filter>소스 파일\8장</Filter>
+    </ClCompile>
     <ClCompile Include="18년도_1번2번.cpp">
-      <Filter>소스 파일\족보</Filter>
+      <Filter>소스 파일\족보\중간고사</Filter>
     </ClCompile>
     <ClCompile Include="18년도_3번_4번.cpp">
-      <Filter>소스 파일\족보</Filter>
+      <Filter>소스 파일\족보\중간고사</Filter>
     </ClCompile>
-    <ClCompile Include="1번.cpp">
-      <Filter>소스 파일\족보\기말고사</Filter>
-    </ClCompile>
-    <ClCompile Include="2번.cpp">
-      <Filter>소스 파일\족보\기말고사</Filter>
+    <ClCompile Include="8장연습2.cpp">
+      <Filter>소스 파일\8장</Filter>
     </ClCompile>
     <ClCompile Include="3번.cpp">
-      <Filter>소스 파일\족보\기말고사</Filter>
+      <Filter>소스 파일\족보\기말고사\16년도</Filter>
+    </ClCompile>
+    <ClCompile Include="1번.cpp">
+      <Filter>소스 파일\족보\기말고사\16년도</Filter>
+    </ClCompile>
+    <ClCompile Include="2번.cpp">
+      <Filter>소스 파일\족보\기말고사\16년도</Filter>
+    </ClCompile>
+    <ClCompile Include="18_1.cpp">
+      <Filter>소스 파일\족보\기말고사\18년도</Filter>
+    </ClCompile>
+    <ClCompile Include="18_2.cpp">
+      <Filter>소스 파일\족보\기말고사\18년도</Filter>
+    </ClCompile>
+    <ClCompile Include="18_3.cpp">
+      <Filter>소스 파일\족보\기말고사\18년도</Filter>
+    </ClCompile>
+    <ClCompile Include="18_4.cpp">
+      <Filter>소스 파일\족보\기말고사\18년도</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

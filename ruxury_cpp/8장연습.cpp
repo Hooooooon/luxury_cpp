@@ -10,7 +10,7 @@ class P {
 public:
 	P(string temp = "B") {
 		cout << "P 생성자 호출" << endl;
-		name = new string(temp);
+		name = new string(temp);z
 	}
 	virtual ~P() {
 		cout << "P 소멸자 호출" << endl;
