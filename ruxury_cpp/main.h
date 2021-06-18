@@ -4,14 +4,14 @@
 
 using namespace std;
 
-
-#include "Date.h"
-#include "SelectableRandom.h"
-#include "Oval.h"
-// 3.29일 수업
-#include "Person.h"
-#include "Family.h"
-#include "CoffeVendingMachine.h"
-#include "CircleManager.h"
-#include "Histogram.h"
-#include "GamblingGame.h"
+//
+//#include "Date.h"
+//#include "SelectableRandom.h"
+//#include "Oval.h"
+//// 3.29일 수업
+//#include "Person.h"
+//#include "Family.h"
+//#include "CoffeVendingMachine.h"
+//#include "CircleManager.h"
+//#include "Histogram.h"
+//#include "GamblingGame.h"

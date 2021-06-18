@@ -381,5 +381,11 @@ MigrationBackup/
 *.exe
 *.out
 *.app
+<<<<<<< HEAD
 /과제
 /족보
+=======
+
+/족보
+/과제
+>>>>>>> 7c7e53f9ed102188e8e1110f78510664e1a8d6c5

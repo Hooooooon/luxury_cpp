@@ -13,18 +13,48 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\7장">
+      <UniqueIdentifier>{51b8ddf4-0d1a-4f99-a8e4-4249b28bad5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\6장">
+      <UniqueIdentifier>{e9cf4e78-b095-4d9d-a92f-d3b72ca5bcd7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\족보">
+      <UniqueIdentifier>{fc9825d3-339b-4978-98a4-11098f3c7cdd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\족보\기말고사">
+      <UniqueIdentifier>{21061a04-de6f-43bd-bf5c-0ca8430d86cd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="GamblingGame.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="7.11번 stack.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="7.12.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="6.6.cpp">
+      <Filter>소스 파일\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="18년도_1번2번.cpp">
+      <Filter>소스 파일\족보</Filter>
+    </ClCompile>
+    <ClCompile Include="18년도_3번_4번.cpp">
+      <Filter>소스 파일\족보</Filter>
+    </ClCompile>
+    <ClCompile Include="1번.cpp">
+      <Filter>소스 파일\족보\기말고사</Filter>
+    </ClCompile>
+    <ClCompile Include="2번.cpp">
+      <Filter>소스 파일\족보\기말고사</Filter>
+    </ClCompile>
+    <ClCompile Include="3번.cpp">
+      <Filter>소스 파일\족보\기말고사</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
