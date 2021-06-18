@@ -381,3 +381,6 @@ MigrationBackup/
 *.exe
 *.out
 *.app
+
+/족보
+/과제
